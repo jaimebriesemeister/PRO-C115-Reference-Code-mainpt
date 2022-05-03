@@ -42,4 +42,4 @@ predict_class = np.argmax(result, axis=1)
 
 print(predict_class)
 
-# {"anger": 0, "fear": 1, "joy": 2, "love": 3, "sadness": 4, "surprise": 5}
+# {"raiva": 0, "medo": 1, "alegria": 2, "amor": 3, "tristeza": 4, "surpresa": 5}
